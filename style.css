@@ -1,0 +1,19 @@
+/* Main Homepage Stylesheet */
+
+.mainpage {
+    text-align: center;
+}
+
+.mainpage.maintext {
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mainpage.recipes {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.BGRND {
+    background-color: rgb(255, 72, 72);
+}
